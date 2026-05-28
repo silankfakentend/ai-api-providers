@@ -1,4 +1,8 @@
-# Awesome AI API Providers 中文版
+<p align="center">
+  <img src="assets/readme-hero-zh.png" alt="AI API 服务商目录" width="100%">
+</p>
+
+# AI API 服务商目录
 
 [English](README.md) | 完整目录：[CCNavX AI API Directory](https://ccnavx.com/directory/ai-api-directory)
 
@@ -15,35 +19,35 @@
 
 ## 服务商列表
 
-| 服务商 | 主要模型家族 | 价格 | 最低充值 | 支付方式 |
-| --- | --- | --- | --- | --- |
-| [4AICode](https://ccnavx.com/sites/4aicode) | Anthropic, OpenAI | 公开 | USD 5 | 支付宝、Visa、Mastercard |
-| [88API](https://ccnavx.com/sites/88api) | Anthropic, OpenAI, Google, DeepSeek | 公开 | USD 1 | 支付宝、微信、USDT、USDC |
-| [Ai Go Code](https://ccnavx.com/sites/aigocode) | Anthropic, OpenAI, Google | 公开 | CNY 5 | 微信、支付宝、Visa、Mastercard、Amex |
-| [安品AI](https://ccnavx.com/sites/anpin) | Anthropic, OpenAI | 公开 | USD 1 | 支付宝、微信 |
-| [APIKey](https://ccnavx.com/sites/apikey) | Anthropic, OpenAI, Google | 公开 | CNY 30 | 微信、支付宝、USDT |
-| [AveMujica API](https://ccnavx.com/sites/avemujica) | Anthropic, OpenAI, DeepSeek | 公开 | CNY 10 | 支付宝、微信、Stripe |
-| [BerryCode](https://ccnavx.com/sites/berrycode) | Anthropic, OpenAI | 公开 | CNY 20 | 微信、USDT、USDC |
-| [BMCCA](https://ccnavx.com/sites/bmcca) | OpenAI | 登录后可见 | USD 1 | 支付宝 |
-| [Ccode](https://ccnavx.com/sites/ccode) | Anthropic | 公开 | CNY 10 | 支付宝、微信 |
-| [CCSub](https://ccnavx.com/sites/ccsub) | Anthropic, OpenAI | 公开 | CNY 20 | 微信、支付宝、USDT |
-| [Code CMD](https://ccnavx.com/sites/codecmd) | Anthropic, OpenAI | 公开 | USD 1 | 微信、支付宝、信用卡、USDT |
-| [CodexZH](https://ccnavx.com/sites/codexzh) | OpenAI | 公开 | CNY 5.9 | 微信、支付宝 |
-| [DDS Hub](https://ccnavx.com/sites/ddshub) | Anthropic, OpenAI | 公开 | CNY 10 | 支付宝、微信 |
-| [DeepKey](https://ccnavx.com/sites/deepkey) | Anthropic, OpenAI, Google | 公开 | CNY 5 | 支付宝、微信 |
-| [DMXAPI](https://ccnavx.com/sites/dmxapi) | Anthropic, OpenAI, Google | 公开 | CNY 1 | 微信、支付宝 |
-| [FK Claude](https://ccnavx.com/sites/fkclaude) | Anthropic, OpenAI | 公开 | CNY 10 | 支付宝 |
-| [FoxCode](https://ccnavx.com/sites/foxcode) | Anthropic, OpenAI, Google | 公开 | CNY 35 | 支付宝 |
-| [简易API](https://ccnavx.com/sites/jeniya) | OpenAI, Anthropic, Google | 公开 | CNY 1 | 微信、支付宝、USDC、USDT |
-| [kukuai](https://ccnavx.com/sites/kukuai) | Anthropic, OpenAI, Google, DeepSeek, xAI | 公开 | CNY 6.8 | 支付宝、Stripe、USDT、USDC |
-| [LLM API](https://ccnavx.com/sites/llmapi) | Anthropic, OpenAI, DeepSeek | 公开 | CNY 0.2 | 支付宝、PayPal、USDT |
-| [Magic Token](https://ccnavx.com/sites/magicapi) | OpenAI | 公开 | USD 50 | 支付宝 |
-| [Neko Code](https://ccnavx.com/sites/nekocode) | Anthropic, OpenAI | 公开 | CNY 1 | 支付宝、微信 |
-| [PackyAPI](https://ccnavx.com/sites/packyapi) | Anthropic, Google, OpenAI | 公开 | 未列明 | 微信、支付宝、Visa、Mastercard、Apple Pay、Cash App Pay |
-| [Poixe AI](https://ccnavx.com/sites/poixeai) | Anthropic, OpenAI, Google, xAI | 公开 | USD 5 | 支付宝、微信、Visa、Mastercard、Amex |
-| [Star API](https://ccnavx.com/sites/starapi) | Anthropic, OpenAI | 公开 | USD 3 | 支付宝、Stripe、信用卡、Apple Pay |
-| [XAI XAPI](https://ccnavx.com/sites/xaixapi) | OpenAI, Anthropic | 登录后可见 | CNY 10 | 微信 |
-| [云雾 API](https://ccnavx.com/sites/yunwuapi) | Anthropic, OpenAI, Google | 公开 | CNY 1 | 微信、支付宝、USDC、USDT |
+| 服务商 | 价格 | 最低充值 | 支付方式 |
+| --- | --- | --- | --- |
+| [4AICode](https://ccnavx.com/sites/4aicode) | 公开 | USD 5 | 支付宝、Visa、Mastercard |
+| [88API](https://ccnavx.com/sites/88api) | 公开 | USD 1 | 支付宝、微信、USDT、USDC |
+| [Ai Go Code](https://ccnavx.com/sites/aigocode) | 公开 | CNY 5 | 微信、支付宝、Visa、Mastercard、Amex |
+| [安品AI](https://ccnavx.com/sites/anpin) | 公开 | USD 1 | 支付宝、微信 |
+| [APIKey](https://ccnavx.com/sites/apikey) | 公开 | CNY 30 | 微信、支付宝、USDT |
+| [AveMujica API](https://ccnavx.com/sites/avemujica) | 公开 | CNY 10 | 支付宝、微信、Stripe |
+| [BerryCode](https://ccnavx.com/sites/berrycode) | 公开 | CNY 20 | 微信、USDT、USDC |
+| [BMCCA](https://ccnavx.com/sites/bmcca) | 登录后可见 | USD 1 | 支付宝 |
+| [Ccode](https://ccnavx.com/sites/ccode) | 公开 | CNY 10 | 支付宝、微信 |
+| [CCSub](https://ccnavx.com/sites/ccsub) | 公开 | CNY 20 | 微信、支付宝、USDT |
+| [Code CMD](https://ccnavx.com/sites/codecmd) | 公开 | USD 1 | 微信、支付宝、信用卡、USDT |
+| [CodexZH](https://ccnavx.com/sites/codexzh) | 公开 | CNY 5.9 | 微信、支付宝 |
+| [DDS Hub](https://ccnavx.com/sites/ddshub) | 公开 | CNY 10 | 支付宝、微信 |
+| [DeepKey](https://ccnavx.com/sites/deepkey) | 公开 | CNY 5 | 支付宝、微信 |
+| [DMXAPI](https://ccnavx.com/sites/dmxapi) | 公开 | CNY 1 | 微信、支付宝 |
+| [FK Claude](https://ccnavx.com/sites/fkclaude) | 公开 | CNY 10 | 支付宝 |
+| [FoxCode](https://ccnavx.com/sites/foxcode) | 公开 | CNY 35 | 支付宝 |
+| [简易API](https://ccnavx.com/sites/jeniya) | 公开 | CNY 1 | 微信、支付宝、USDC、USDT |
+| [kukuai](https://ccnavx.com/sites/kukuai) | 公开 | CNY 6.8 | 支付宝、Stripe、USDT、USDC |
+| [LLM API](https://ccnavx.com/sites/llmapi) | 公开 | CNY 0.2 | 支付宝、PayPal、USDT |
+| [Magic Token](https://ccnavx.com/sites/magicapi) | 公开 | USD 50 | 支付宝 |
+| [Neko Code](https://ccnavx.com/sites/nekocode) | 公开 | CNY 1 | 支付宝、微信 |
+| [PackyAPI](https://ccnavx.com/sites/packyapi) | 公开 | 未列明 | 微信、支付宝、Visa、Mastercard、Apple Pay、Cash App Pay |
+| [Poixe AI](https://ccnavx.com/sites/poixeai) | 公开 | USD 5 | 支付宝、微信、Visa、Mastercard、Amex |
+| [Star API](https://ccnavx.com/sites/starapi) | 公开 | USD 3 | 支付宝、Stripe、信用卡、Apple Pay |
+| [XAI XAPI](https://ccnavx.com/sites/xaixapi) | 登录后可见 | CNY 10 | 微信 |
+| [云雾 API](https://ccnavx.com/sites/yunwuapi) | 公开 | CNY 1 | 微信、支付宝、USDC、USDT |
 
 ## 收录标准
 

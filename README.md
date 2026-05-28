@@ -1,4 +1,8 @@
-# Awesome AI API Providers
+<p align="center">
+  <img src="assets/readme-hero.png" alt="AI API Providers" width="100%">
+</p>
+
+# AI API Providers
 
 [简体中文](README.zh-CN.md) | Full directory: [CCNavX AI API Directory](https://ccnavx.com/directory/ai-api-directory)
 
@@ -15,35 +19,35 @@ This list focuses on practical provider facts: supported model families, public 
 
 ## Provider List
 
-| Provider | Main model families | Pricing | Minimum top-up | Payment methods |
-| --- | --- | --- | --- | --- |
-| [4AICode](https://ccnavx.com/sites/4aicode) | Anthropic, OpenAI | Public | USD 5 | Alipay, Visa, Mastercard |
-| [88API](https://ccnavx.com/sites/88api) | Anthropic, OpenAI, Google, DeepSeek | Public | USD 1 | Alipay, WeChat, USDT, USDC |
-| [Ai Go Code](https://ccnavx.com/sites/aigocode) | Anthropic, OpenAI, Google | Public | CNY 5 | WeChat, Alipay, Visa, Mastercard, Amex |
-| [AnPin AI](https://ccnavx.com/sites/anpin) | Anthropic, OpenAI | Public | USD 1 | Alipay, WeChat |
-| [APIKey](https://ccnavx.com/sites/apikey) | Anthropic, OpenAI, Google | Public | CNY 30 | WeChat, Alipay, USDT |
-| [AveMujica API](https://ccnavx.com/sites/avemujica) | Anthropic, OpenAI, DeepSeek | Public | CNY 10 | Alipay, WeChat, Stripe |
-| [BerryCode](https://ccnavx.com/sites/berrycode) | Anthropic, OpenAI | Public | CNY 20 | WeChat, USDT, USDC |
-| [BMCCA](https://ccnavx.com/sites/bmcca) | OpenAI | Login required | USD 1 | Alipay |
-| [Ccode](https://ccnavx.com/sites/ccode) | Anthropic | Public | CNY 10 | Alipay, WeChat |
-| [CCSub](https://ccnavx.com/sites/ccsub) | Anthropic, OpenAI | Public | CNY 20 | WeChat, Alipay, USDT |
-| [Code CMD](https://ccnavx.com/sites/codecmd) | Anthropic, OpenAI | Public | USD 1 | WeChat, Alipay, credit card, USDT |
-| [CodexZH](https://ccnavx.com/sites/codexzh) | OpenAI | Public | CNY 5.9 | WeChat, Alipay |
-| [DDS Hub](https://ccnavx.com/sites/ddshub) | Anthropic, OpenAI | Public | CNY 10 | Alipay, WeChat |
-| [DeepKey](https://ccnavx.com/sites/deepkey) | Anthropic, OpenAI, Google | Public | CNY 5 | Alipay, WeChat |
-| [DMXAPI](https://ccnavx.com/sites/dmxapi) | Anthropic, OpenAI, Google | Public | CNY 1 | WeChat, Alipay |
-| [FK Claude](https://ccnavx.com/sites/fkclaude) | Anthropic, OpenAI | Public | CNY 10 | Alipay |
-| [FoxCode](https://ccnavx.com/sites/foxcode) | Anthropic, OpenAI, Google | Public | CNY 35 | Alipay |
-| [Jeniya](https://ccnavx.com/sites/jeniya) | OpenAI, Anthropic, Google | Public | CNY 1 | WeChat, Alipay, USDC, USDT |
-| [kukuai](https://ccnavx.com/sites/kukuai) | Anthropic, OpenAI, Google, DeepSeek, xAI | Public | CNY 6.8 | Alipay, Stripe, USDT, USDC |
-| [LLM API](https://ccnavx.com/sites/llmapi) | Anthropic, OpenAI, DeepSeek | Public | CNY 0.2 | Alipay, PayPal, USDT |
-| [Magic Token](https://ccnavx.com/sites/magicapi) | OpenAI | Public | USD 50 | Alipay |
-| [Neko Code](https://ccnavx.com/sites/nekocode) | Anthropic, OpenAI | Public | CNY 1 | Alipay, WeChat |
-| [PackyAPI](https://ccnavx.com/sites/packyapi) | Anthropic, Google, OpenAI | Public | Not listed | WeChat, Alipay, Visa, Mastercard, Apple Pay, Cash App Pay |
-| [Poixe AI](https://ccnavx.com/sites/poixeai) | Anthropic, OpenAI, Google, xAI | Public | USD 5 | Alipay, WeChat, Visa, Mastercard, Amex |
-| [Star API](https://ccnavx.com/sites/starapi) | Anthropic, OpenAI | Public | USD 3 | Alipay, Stripe, credit card, Apple Pay |
-| [XAI XAPI](https://ccnavx.com/sites/xaixapi) | OpenAI, Anthropic | Login required | CNY 10 | WeChat |
-| [Yunwu API](https://ccnavx.com/sites/yunwuapi) | Anthropic, OpenAI, Google | Public | CNY 1 | WeChat, Alipay, USDC, USDT |
+| Provider | Pricing | Minimum top-up | Payment methods |
+| --- | --- | --- | --- |
+| [4AICode](https://ccnavx.com/sites/4aicode) | Public | USD 5 | Alipay, Visa, Mastercard |
+| [88API](https://ccnavx.com/sites/88api) | Public | USD 1 | Alipay, WeChat, USDT, USDC |
+| [Ai Go Code](https://ccnavx.com/sites/aigocode) | Public | CNY 5 | WeChat, Alipay, Visa, Mastercard, Amex |
+| [AnPin AI](https://ccnavx.com/sites/anpin) | Public | USD 1 | Alipay, WeChat |
+| [APIKey](https://ccnavx.com/sites/apikey) | Public | CNY 30 | WeChat, Alipay, USDT |
+| [AveMujica API](https://ccnavx.com/sites/avemujica) | Public | CNY 10 | Alipay, WeChat, Stripe |
+| [BerryCode](https://ccnavx.com/sites/berrycode) | Public | CNY 20 | WeChat, USDT, USDC |
+| [BMCCA](https://ccnavx.com/sites/bmcca) | Login required | USD 1 | Alipay |
+| [Ccode](https://ccnavx.com/sites/ccode) | Public | CNY 10 | Alipay, WeChat |
+| [CCSub](https://ccnavx.com/sites/ccsub) | Public | CNY 20 | WeChat, Alipay, USDT |
+| [Code CMD](https://ccnavx.com/sites/codecmd) | Public | USD 1 | WeChat, Alipay, credit card, USDT |
+| [CodexZH](https://ccnavx.com/sites/codexzh) | Public | CNY 5.9 | WeChat, Alipay |
+| [DDS Hub](https://ccnavx.com/sites/ddshub) | Public | CNY 10 | Alipay, WeChat |
+| [DeepKey](https://ccnavx.com/sites/deepkey) | Public | CNY 5 | Alipay, WeChat |
+| [DMXAPI](https://ccnavx.com/sites/dmxapi) | Public | CNY 1 | WeChat, Alipay |
+| [FK Claude](https://ccnavx.com/sites/fkclaude) | Public | CNY 10 | Alipay |
+| [FoxCode](https://ccnavx.com/sites/foxcode) | Public | CNY 35 | Alipay |
+| [Jeniya](https://ccnavx.com/sites/jeniya) | Public | CNY 1 | WeChat, Alipay, USDC, USDT |
+| [kukuai](https://ccnavx.com/sites/kukuai) | Public | CNY 6.8 | Alipay, Stripe, USDT, USDC |
+| [LLM API](https://ccnavx.com/sites/llmapi) | Public | CNY 0.2 | Alipay, PayPal, USDT |
+| [Magic Token](https://ccnavx.com/sites/magicapi) | Public | USD 50 | Alipay |
+| [Neko Code](https://ccnavx.com/sites/nekocode) | Public | CNY 1 | Alipay, WeChat |
+| [PackyAPI](https://ccnavx.com/sites/packyapi) | Public | Not listed | WeChat, Alipay, Visa, Mastercard, Apple Pay, Cash App Pay |
+| [Poixe AI](https://ccnavx.com/sites/poixeai) | Public | USD 5 | Alipay, WeChat, Visa, Mastercard, Amex |
+| [Star API](https://ccnavx.com/sites/starapi) | Public | USD 3 | Alipay, Stripe, credit card, Apple Pay |
+| [XAI XAPI](https://ccnavx.com/sites/xaixapi) | Login required | CNY 10 | WeChat |
+| [Yunwu API](https://ccnavx.com/sites/yunwuapi) | Public | CNY 1 | WeChat, Alipay, USDC, USDT |
 
 ## How Providers Are Evaluated
 
