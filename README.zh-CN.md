@@ -43,6 +43,7 @@
 | [LLM API](https://ccnavx.com/sites/llmapi) | 公开 | CNY 0.2 | 支付宝、PayPal、USDT |
 | [Magic Token](https://ccnavx.com/sites/magicapi) | 公开 | USD 50 | 支付宝 |
 | [Neko Code](https://ccnavx.com/sites/nekocode) | 公开 | CNY 1 | 支付宝、微信 |
+| [AI Router](https://ai-router.dev) | 公开 | 新用户共 20U（注册 5U，充值后再解锁 15U） | 支付宝、微信、Stripe、USDT |
 | [PackyAPI](https://ccnavx.com/sites/packyapi) | 公开 | 未列明 | 微信、支付宝、Visa、Mastercard、Apple Pay、Cash App Pay |
 | [Poixe AI](https://ccnavx.com/sites/poixeai) | 公开 | USD 5 | 支付宝、微信、Visa、Mastercard、Amex |
 | [Star API](https://ccnavx.com/sites/starapi) | 公开 | USD 3 | 支付宝、Stripe、信用卡、Apple Pay |
