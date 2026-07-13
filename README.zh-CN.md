@@ -14,7 +14,7 @@
 
 - 面向 GPT、Codex、图像模型的 OpenAI 兼容 API 服务。
 - 面向 Claude、Claude Code 工作流的 Anthropic 兼容 API 服务。
-- 聚合 OpenAI、Anthropic、Google Gemini、DeepSeek、xAI 等模型家族的 API 网关。
+- 聚合 OpenAI、Anthropic、Google Gemini、SpaceXAI、DeepSeek 等模型家族的 API 网关。
 - 有公开价格、充值额度、订阅方案、支付方式或售后渠道证据的开发者服务。
 
 ## 服务商列表

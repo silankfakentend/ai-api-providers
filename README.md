@@ -14,7 +14,7 @@ This list focuses on practical provider facts: supported model families, public 
 
 - OpenAI-compatible API providers for GPT, Codex, and image models.
 - Anthropic-compatible API providers for Claude and Claude Code workflows.
-- Multi-provider API gateways that aggregate OpenAI, Anthropic, Google Gemini, DeepSeek, xAI, and other model families.
+- Multi-provider API gateways that aggregate OpenAI, Anthropic, Google Gemini, SpaceXAI, DeepSeek, and other model families.
 - Developer-focused services with public pricing, top-up credits, subscriptions, payment methods, or support-channel evidence.
 
 ## Provider List
