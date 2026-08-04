@@ -41,7 +41,7 @@ This list focuses on practical provider facts: supported model families, public 
 | [Jeniya](https://ccnavx.com/sites/jeniya) | Public | CNY 1 | WeChat, Alipay, USDC, USDT |
 | [kukuai](https://ccnavx.com/sites/kukuai) | Public | CNY 6.8 | Alipay, Stripe, USDT, USDC |
 | [LLM API](https://ccnavx.com/sites/llmapi) | Public | CNY 0.2 | Alipay, PayPal, USDT |
-| [LinkAGI](https://api.linktoagi.com/) | Public | CNY 1 / USD 5 via Creem | WeChat, Alipay, Creem |
+| [LinkAGI](https://api.linktoagi.com/) | Public | CNY 1 | WeChat, Alipay |
 | [Magic Token](https://ccnavx.com/sites/magicapi) | Public | USD 50 | Alipay |
 | [Neko Code](https://ccnavx.com/sites/nekocode) | Public | CNY 1 | Alipay, WeChat |
 | [AI Router](https://ai-router.dev) | Public | New users: 20U total (`5U` on signup, `15U` after top-up) | Alipay, WeChat, Stripe, USDT |
