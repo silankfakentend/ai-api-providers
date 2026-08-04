@@ -41,6 +41,7 @@
 | [简易API](https://ccnavx.com/sites/jeniya) | 公开 | CNY 1 | 微信、支付宝、USDC、USDT |
 | [kukuai](https://ccnavx.com/sites/kukuai) | 公开 | CNY 6.8 | 支付宝、Stripe、USDT、USDC |
 | [LLM API](https://ccnavx.com/sites/llmapi) | 公开 | CNY 0.2 | 支付宝、PayPal、USDT |
+| [LinkAGI](https://api.linktoagi.com/) | 公开 | CNY 1 / Creem USD 5 | 微信、支付宝、Creem |
 | [Magic Token](https://ccnavx.com/sites/magicapi) | 公开 | USD 50 | 支付宝 |
 | [Neko Code](https://ccnavx.com/sites/nekocode) | 公开 | CNY 1 | 支付宝、微信 |
 | [AI Router](https://ai-router.dev) | 公开 | 新用户共 20U（注册 5U，充值后再解锁 15U） | 支付宝、微信、Stripe、USDT |
