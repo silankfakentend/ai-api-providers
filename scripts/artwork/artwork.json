@@ -1,0 +1,41 @@
+{
+  "title": "AI API Providers",
+  "eyebrow": "Reference fork",
+  "subtitle": [
+    "A reference copy of",
+    "silankfakentend/ai-api-providers"
+  ],
+  "status": "Upstream authorship and license preserved",
+  "motif": "library",
+  "accent": "#256D70",
+  "footer": "ai-api-providers",
+  "overview_title": "Start with the original project",
+  "overview_subtitle": "This fork is a reference checkout, not an independently verified product or directory.",
+  "nodes": [
+    {
+      "icon": "library",
+      "title": "Upstream source",
+      "lines": [
+        "silankfakentend",
+        "ai-api-providers"
+      ]
+    },
+    {
+      "icon": "library",
+      "title": "Reference checkout",
+      "lines": [
+        "Existing docs retained.",
+        "Fork changes stay separate."
+      ]
+    },
+    {
+      "icon": "scope",
+      "title": "Check before reuse",
+      "lines": [
+        "License, changes and dates.",
+        "No independent certification."
+      ]
+    }
+  ],
+  "caveat": "Illustration of provenance. Follow upstream for current releases, support and contribution rules."
+}
