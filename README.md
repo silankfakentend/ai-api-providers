@@ -1,3 +1,29 @@
+<!-- repository-presentation: reference-fork -->
+<p align="center"><img src="assets/presentation/banner.png" alt="AI API Providers: reference fork, with upstream credit preserved" width="900"></p>
+
+# AI API Providers / reference fork
+
+This repository is a fork of **[silankfakentend/ai-api-providers](https://github.com/silankfakentend/ai-api-providers)**. The original project's
+authors, licensing and contribution rules still apply. This presentation does
+not claim the upstream work as an original project.
+
+- Start with the [upstream repository](https://github.com/silankfakentend/ai-api-providers) for its current documentation.
+- Review this fork's history before assuming it is identical to the latest upstream branch.
+- Check licenses and current service behavior before using code, providers or resources.
+
+![Upstream source, reference checkout, and checks before reuse](assets/presentation/overview.png)
+
+*Provenance illustration, not an execution trace. [Editable artwork](scripts/artwork/README.md).*
+
+## Existing project documentation
+
+The documentation below is preserved from this fork's previous public revision.
+Counts, service claims, badges and benchmark statements in that material are
+not independently certified by this presentation pass. No upstream release,
+security or availability guarantee is being added.
+
+---
+
 <p align="center">
   <img src="assets/readme-hero.png" alt="AI API Providers" width="100%">
 </p>
@@ -24,6 +50,7 @@ This list focuses on practical provider facts: supported model families, public 
 | [4AICode](https://ccnavx.com/sites/4aicode) | Public | USD 5 | Alipay, Visa, Mastercard |
 | [88API](https://ccnavx.com/sites/88api) | Public | USD 1 | Alipay, WeChat, USDT, USDC |
 | [Ai Go Code](https://ccnavx.com/sites/aigocode) | Public | CNY 5 | WeChat, Alipay, Visa, Mastercard, Amex |
+| [AI Router](https://ai-router.dev) | Public | New users: 20U total (`5U` on signup, `15U` after top-up) | Alipay, WeChat, Stripe, USDT |
 | [AnPin AI](https://ccnavx.com/sites/anpin) | Public | USD 1 | Alipay, WeChat |
 | [APIKey](https://ccnavx.com/sites/apikey) | Public | CNY 30 | WeChat, Alipay, USDT |
 | [AveMujica API](https://ccnavx.com/sites/avemujica) | Public | CNY 10 | Alipay, WeChat, Stripe |
@@ -35,16 +62,16 @@ This list focuses on practical provider facts: supported model families, public 
 | [CodexZH](https://ccnavx.com/sites/codexzh) | Public | CNY 5.9 | WeChat, Alipay |
 | [DDS Hub](https://ccnavx.com/sites/ddshub) | Public | CNY 10 | Alipay, WeChat |
 | [DeepKey](https://ccnavx.com/sites/deepkey) | Public | CNY 5 | Alipay, WeChat |
+| [DiscountedTokens](https://discountedtokens.com) | Public | USD 5 | Stripe, USDT, USDC |
 | [DMXAPI](https://ccnavx.com/sites/dmxapi) | Public | CNY 1 | WeChat, Alipay |
 | [FK Claude](https://ccnavx.com/sites/fkclaude) | Public | CNY 10 | Alipay |
 | [FoxCode](https://ccnavx.com/sites/foxcode) | Public | CNY 35 | Alipay |
 | [Jeniya](https://ccnavx.com/sites/jeniya) | Public | CNY 1 | WeChat, Alipay, USDC, USDT |
 | [kukuai](https://ccnavx.com/sites/kukuai) | Public | CNY 6.8 | Alipay, Stripe, USDT, USDC |
-| [LLM API](https://ccnavx.com/sites/llmapi) | Public | CNY 0.2 | Alipay, PayPal, USDT |
 | [LinkAGI](https://api.linktoagi.com/) | Public | CNY 1 | WeChat, Alipay |
+| [LLM API](https://ccnavx.com/sites/llmapi) | Public | CNY 0.2 | Alipay, PayPal, USDT |
 | [Magic Token](https://ccnavx.com/sites/magicapi) | Public | USD 50 | Alipay |
 | [Neko Code](https://ccnavx.com/sites/nekocode) | Public | CNY 1 | Alipay, WeChat |
-| [AI Router](https://ai-router.dev) | Public | New users: 20U total (`5U` on signup, `15U` after top-up) | Alipay, WeChat, Stripe, USDT |
 | [PackyAPI](https://ccnavx.com/sites/packyapi) | Public | Not listed | WeChat, Alipay, Visa, Mastercard, Apple Pay, Cash App Pay |
 | [Poixe AI](https://ccnavx.com/sites/poixeai) | Public | USD 5 | Alipay, WeChat, Visa, Mastercard, Amex |
 | [Star API](https://ccnavx.com/sites/starapi) | Public | USD 3 | Alipay, Stripe, credit card, Apple Pay |
@@ -81,3 +108,4 @@ AI API proxy services and relay providers can change pricing, model availability
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
