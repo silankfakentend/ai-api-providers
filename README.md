@@ -71,12 +71,15 @@ This list focuses on practical provider facts: supported model families, public 
 | [LinkAGI](https://api.linktoagi.com/) | Public | CNY 1 | WeChat, Alipay |
 | [LLM API](https://ccnavx.com/sites/llmapi) | Public | CNY 0.2 | Alipay, PayPal, USDT |
 | [Magic Token](https://ccnavx.com/sites/magicapi) | Public | USD 50 | Alipay |
+| [ModelRush](https://modelrush.ai/) | [Public, prepaid usage credits](https://modelrush.ai/pricing) | Not listed | Not listed |
 | [Neko Code](https://ccnavx.com/sites/nekocode) | Public | CNY 1 | Alipay, WeChat |
 | [PackyAPI](https://ccnavx.com/sites/packyapi) | Public | Not listed | WeChat, Alipay, Visa, Mastercard, Apple Pay, Cash App Pay |
 | [Poixe AI](https://ccnavx.com/sites/poixeai) | Public | USD 5 | Alipay, WeChat, Visa, Mastercard, Amex |
 | [Star API](https://ccnavx.com/sites/starapi) | Public | USD 3 | Alipay, Stripe, credit card, Apple Pay |
 | [XAI XAPI](https://ccnavx.com/sites/xaixapi) | Login required | CNY 10 | WeChat |
 | [Yunwu API](https://ccnavx.com/sites/yunwuapi) | Public | CNY 1 | WeChat, Alipay, USDC, USDT |
+
+ModelRush provides text, image, video and voice APIs, with OpenAI-compatible chat and model-specific media endpoints ([docs](https://modelrush.ai/docs)). It has no ongoing free tier or free trial and includes a separate age-restricted NSFW catalog.
 
 ## How Providers Are Evaluated
 
