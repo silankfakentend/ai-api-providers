@@ -21,20 +21,15 @@
 
 | 服务商 | 价格 | 最低充值 | 支付方式 |
 | --- | --- | --- | --- |
-| [4AICode](https://ccnavx.com/sites/4aicode) | 公开 | USD 5 | 支付宝、Visa、Mastercard |
 | [88API](https://ccnavx.com/sites/88api) | 公开 | USD 1 | 支付宝、微信、USDT、USDC |
 | [Ai Go Code](https://ccnavx.com/sites/aigocode) | 公开 | CNY 5 | 微信、支付宝、Visa、Mastercard、Amex |
 | [安品AI](https://ccnavx.com/sites/anpin) | 公开 | USD 1 | 支付宝、微信 |
 | [APIKey](https://ccnavx.com/sites/apikey) | 公开 | CNY 30 | 微信、支付宝、USDT |
-| [AveMujica API](https://ccnavx.com/sites/avemujica) | 公开 | CNY 10 | 支付宝、微信、Stripe |
-| [BerryCode](https://ccnavx.com/sites/berrycode) | 公开 | CNY 20 | 微信、USDT、USDC |
 | [BMCCA](https://ccnavx.com/sites/bmcca) | 登录后可见 | USD 1 | 支付宝 |
-| [Ccode](https://ccnavx.com/sites/ccode) | 公开 | CNY 10 | 支付宝、微信 |
 | [CCSub](https://ccnavx.com/sites/ccsub) | 公开 | CNY 20 | 微信、支付宝、USDT |
-| [Code CMD](https://ccnavx.com/sites/codecmd) | 公开 | USD 1 | 微信、支付宝、信用卡、USDT |
-| [CodexZH](https://ccnavx.com/sites/codexzh) | 公开 | CNY 5.9 | 微信、支付宝 |
 | [DDS Hub](https://ccnavx.com/sites/ddshub) | 公开 | CNY 10 | 支付宝、微信 |
 | [DeepKey](https://ccnavx.com/sites/deepkey) | 公开 | CNY 5 | 支付宝、微信 |
+| [DiscountedTokens](https://discountedtokens.com) | 公开 | USD 5 | Stripe、USDT、USDC |
 | [DMXAPI](https://ccnavx.com/sites/dmxapi) | 公开 | CNY 1 | 微信、支付宝 |
 | [FK Claude](https://ccnavx.com/sites/fkclaude) | 公开 | CNY 10 | 支付宝 |
 | [FoxCode](https://ccnavx.com/sites/foxcode) | 公开 | CNY 35 | 支付宝 |
@@ -44,15 +39,7 @@
 | [LinkAGI](https://api.linktoagi.com/) | 公开 | CNY 1 | 微信、支付宝 |
 | [Magic Token](https://ccnavx.com/sites/magicapi) | 公开 | USD 50 | 支付宝 |
 | [ModelRush](https://modelrush.ai/) | [公开，预付额度按用量计费](https://modelrush.ai/pricing) | 未列明 | 未列明 |
-| [Neko Code](https://ccnavx.com/sites/nekocode) | 公开 | CNY 1 | 支付宝、微信 |
-| [AI Router](https://ai-router.dev) | 公开 | 新用户共 20U（注册 5U，充值后再解锁 15U） | 支付宝、微信、Stripe、USDT |
-| [PackyAPI](https://ccnavx.com/sites/packyapi) | 公开 | 未列明 | 微信、支付宝、Visa、Mastercard、Apple Pay、Cash App Pay |
 | [Poixe AI](https://ccnavx.com/sites/poixeai) | 公开 | USD 5 | 支付宝、微信、Visa、Mastercard、Amex |
-| [Star API](https://ccnavx.com/sites/starapi) | 公开 | USD 3 | 支付宝、Stripe、信用卡、Apple Pay |
-| [XAI XAPI](https://ccnavx.com/sites/xaixapi) | 登录后可见 | CNY 10 | 微信 |
-| [云雾 API](https://ccnavx.com/sites/yunwuapi) | 公开 | CNY 1 | 微信、支付宝、USDC、USDT |
-
-ModelRush 提供文本、图像、视频和语音 API，聊天接口兼容 OpenAI，媒体接口按模型区分（[文档](https://modelrush.ai/docs)）。没有长期免费套餐或免费试用，包含独立的年龄限制 NSFW 目录。
 
 ## 收录标准
 

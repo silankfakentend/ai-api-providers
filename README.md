@@ -21,19 +21,12 @@ This list focuses on practical provider facts: supported model families, public 
 
 | Provider | Pricing | Minimum top-up | Payment methods |
 | --- | --- | --- | --- |
-| [4AICode](https://ccnavx.com/sites/4aicode) | Public | USD 5 | Alipay, Visa, Mastercard |
 | [88API](https://ccnavx.com/sites/88api) | Public | USD 1 | Alipay, WeChat, USDT, USDC |
 | [Ai Go Code](https://ccnavx.com/sites/aigocode) | Public | CNY 5 | WeChat, Alipay, Visa, Mastercard, Amex |
-| [AI Router](https://ai-router.dev) | Public | New users: 20U total (`5U` on signup, `15U` after top-up) | Alipay, WeChat, Stripe, USDT |
 | [AnPin AI](https://ccnavx.com/sites/anpin) | Public | USD 1 | Alipay, WeChat |
 | [APIKey](https://ccnavx.com/sites/apikey) | Public | CNY 30 | WeChat, Alipay, USDT |
-| [AveMujica API](https://ccnavx.com/sites/avemujica) | Public | CNY 10 | Alipay, WeChat, Stripe |
-| [BerryCode](https://ccnavx.com/sites/berrycode) | Public | CNY 20 | WeChat, USDT, USDC |
 | [BMCCA](https://ccnavx.com/sites/bmcca) | Login required | USD 1 | Alipay |
-| [Ccode](https://ccnavx.com/sites/ccode) | Public | CNY 10 | Alipay, WeChat |
 | [CCSub](https://ccnavx.com/sites/ccsub) | Public | CNY 20 | WeChat, Alipay, USDT |
-| [Code CMD](https://ccnavx.com/sites/codecmd) | Public | USD 1 | WeChat, Alipay, credit card, USDT |
-| [CodexZH](https://ccnavx.com/sites/codexzh) | Public | CNY 5.9 | WeChat, Alipay |
 | [DDS Hub](https://ccnavx.com/sites/ddshub) | Public | CNY 10 | Alipay, WeChat |
 | [DeepKey](https://ccnavx.com/sites/deepkey) | Public | CNY 5 | Alipay, WeChat |
 | [DiscountedTokens](https://discountedtokens.com) | Public | USD 5 | Stripe, USDT, USDC |
@@ -46,14 +39,7 @@ This list focuses on practical provider facts: supported model families, public 
 | [LLM API](https://ccnavx.com/sites/llmapi) | Public | CNY 0.2 | Alipay, PayPal, USDT |
 | [Magic Token](https://ccnavx.com/sites/magicapi) | Public | USD 50 | Alipay |
 | [ModelRush](https://modelrush.ai/) | [Public, prepaid usage credits](https://modelrush.ai/pricing) | Not listed | Not listed |
-| [Neko Code](https://ccnavx.com/sites/nekocode) | Public | CNY 1 | Alipay, WeChat |
-| [PackyAPI](https://ccnavx.com/sites/packyapi) | Public | Not listed | WeChat, Alipay, Visa, Mastercard, Apple Pay, Cash App Pay |
 | [Poixe AI](https://ccnavx.com/sites/poixeai) | Public | USD 5 | Alipay, WeChat, Visa, Mastercard, Amex |
-| [Star API](https://ccnavx.com/sites/starapi) | Public | USD 3 | Alipay, Stripe, credit card, Apple Pay |
-| [XAI XAPI](https://ccnavx.com/sites/xaixapi) | Login required | CNY 10 | WeChat |
-| [Yunwu API](https://ccnavx.com/sites/yunwuapi) | Public | CNY 1 | WeChat, Alipay, USDC, USDT |
-
-ModelRush provides text, image, video and voice APIs, with OpenAI-compatible chat and model-specific media endpoints ([docs](https://modelrush.ai/docs)). It has no ongoing free tier or free trial and includes a separate age-restricted NSFW catalog.
 
 ## How Providers Are Evaluated
 
@@ -85,4 +71,3 @@ AI API proxy services and relay providers can change pricing, model availability
 ## License
 
 MIT. See [LICENSE](LICENSE).
-
