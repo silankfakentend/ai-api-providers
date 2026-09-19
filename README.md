@@ -40,7 +40,6 @@ This list focuses on practical provider facts: supported model families, public 
 | [Magic Token](https://ccnavx.com/sites/magicapi) | Public | USD 50 | Alipay |
 | [ModelRush](https://modelrush.ai/) | [Public, prepaid usage credits](https://modelrush.ai/pricing) | Not listed | Not listed |
 | [Poixe AI](https://ccnavx.com/sites/poixeai) | Public | USD 5 | Alipay, WeChat, Visa, Mastercard, Amex |
-
 | [YonshoreAPI](https://api.yonshore.com) | [Public per-model pricing](https://api.yonshore.com/api/pricing) | Not listed | WeChat (operator-reported) |
 
 ## How Providers Are Evaluated
