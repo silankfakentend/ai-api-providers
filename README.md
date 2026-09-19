@@ -41,6 +41,8 @@ This list focuses on practical provider facts: supported model families, public 
 | [ModelRush](https://modelrush.ai/) | [Public, prepaid usage credits](https://modelrush.ai/pricing) | Not listed | Not listed |
 | [Poixe AI](https://ccnavx.com/sites/poixeai) | Public | USD 5 | Alipay, WeChat, Visa, Mastercard, Amex |
 
+| [YonshoreAPI](https://api.yonshore.com) | [Public per-model pricing](https://api.yonshore.com/api/pricing) | Not listed | WeChat (operator-reported) |
+
 ## How Providers Are Evaluated
 
 This repository is a curated index, not a paid ranking. A provider may be listed when public evidence is available for at least part of the following:
