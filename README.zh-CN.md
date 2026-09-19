@@ -40,6 +40,7 @@
 | [Magic Token](https://ccnavx.com/sites/magicapi) | 公开 | USD 50 | 支付宝 |
 | [ModelRush](https://modelrush.ai/) | [公开，预付额度按用量计费](https://modelrush.ai/pricing) | 未列明 | 未列明 |
 | [Poixe AI](https://ccnavx.com/sites/poixeai) | 公开 | USD 5 | 支付宝、微信、Visa、Mastercard、Amex |
+| [YonshoreAPI](https://api.yonshore.com) | [公开逐模型价格](https://api.yonshore.com/api/pricing) | 未列明 | 微信（运营方声明） |
 
 ## 收录标准
 
