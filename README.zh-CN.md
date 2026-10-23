@@ -27,6 +27,7 @@
 | [APIKey](https://ccnavx.com/sites/apikey) | 公开 | CNY 30 | 微信、支付宝、USDT |
 | [BMCCA](https://ccnavx.com/sites/bmcca) | 登录后可见 | USD 1 | 支付宝 |
 | [CCSub](https://ccnavx.com/sites/ccsub) | 公开 | CNY 20 | 微信、支付宝、USDT |
+| [COCO API](https://cocoapi.top/) | 未列明 | 未列明 | 未列明 |
 | [DDS Hub](https://ccnavx.com/sites/ddshub) | 公开 | CNY 10 | 支付宝、微信 |
 | [DeepKey](https://ccnavx.com/sites/deepkey) | 公开 | CNY 5 | 支付宝、微信 |
 | [DiscountedTokens](https://discountedtokens.com) | 公开 | USD 5 | Stripe、USDT、USDC |
