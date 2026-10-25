@@ -41,6 +41,7 @@ This list focuses on practical provider facts: supported model families, public 
 | [ModelRush](https://modelrush.ai/) | [Public, prepaid usage credits](https://modelrush.ai/pricing) | Not listed | Not listed |
 | [Poixe AI](https://ccnavx.com/sites/poixeai) | Public | USD 5 | Alipay, WeChat, Visa, Mastercard, Amex |
 | [Shannon API](https://shannonapi.xyz/) | Public (usage-based billing; model marketplace lists prices) | Not listed | Not listed |
+| [Twinkle Model](https://big-model.smart-agi.com) | [Public, per-group multipliers](https://big-model.smart-agi.com/model-plaza) | CNY 1 | Alipay |
 | [YonshoreAPI](https://api.yonshore.com) | [Public per-model pricing](https://api.yonshore.com/api/pricing) | Not listed | WeChat (operator-reported) |
 
 ## How Providers Are Evaluated
