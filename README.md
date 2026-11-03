@@ -27,6 +27,7 @@ This list focuses on practical provider facts: supported model families, public 
 | [APIKey](https://ccnavx.com/sites/apikey) | Public | CNY 30 | WeChat, Alipay, USDT |
 | [BMCCA](https://ccnavx.com/sites/bmcca) | Login required | USD 1 | Alipay |
 | [CCSub](https://ccnavx.com/sites/ccsub) | Public | CNY 20 | WeChat, Alipay, USDT |
+| [Code By AI](https://www.codebyai.net) | [Public per-model pricing](https://www.codebyai.net/pricing) | USD 3 | Not listed |
 | [DDS Hub](https://ccnavx.com/sites/ddshub) | Public | CNY 10 | Alipay, WeChat |
 | [DeepKey](https://ccnavx.com/sites/deepkey) | Public | CNY 5 | Alipay, WeChat |
 | [DiscountedTokens](https://discountedtokens.com) | Public | USD 5 | Stripe, USDT, USDC |
