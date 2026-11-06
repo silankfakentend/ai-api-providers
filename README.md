@@ -33,6 +33,7 @@ This list focuses on practical provider facts: supported model families, public 
 | [DMXAPI](https://ccnavx.com/sites/dmxapi) | Public | CNY 1 | WeChat, Alipay |
 | [FK Claude](https://ccnavx.com/sites/fkclaude) | Public | CNY 10 | Alipay |
 | [FoxCode](https://ccnavx.com/sites/foxcode) | Public | CNY 35 | Alipay |
+| [IteraCompute](https://iteracompute.com/) | [Public per-model pricing](https://iteracompute.com/models/) | Not listed | [WeChat Pay, PayPal](https://iteracompute.com/terms.html) |
 | [Jeniya](https://ccnavx.com/sites/jeniya) | Public | CNY 1 | WeChat, Alipay, USDC, USDT |
 | [kukuai](https://ccnavx.com/sites/kukuai) | Public | CNY 6.8 | Alipay, Stripe, USDT, USDC |
 | [LinkAGI](https://api.linktoagi.com/) | Public | CNY 1 | WeChat, Alipay |

@@ -33,6 +33,7 @@
 | [DMXAPI](https://ccnavx.com/sites/dmxapi) | 公开 | CNY 1 | 微信、支付宝 |
 | [FK Claude](https://ccnavx.com/sites/fkclaude) | 公开 | CNY 10 | 支付宝 |
 | [FoxCode](https://ccnavx.com/sites/foxcode) | 公开 | CNY 35 | 支付宝 |
+| [IteraCompute](https://iteracompute.com/) | [公开逐模型价格](https://iteracompute.com/models/) | 未列明 | [微信支付、PayPal](https://iteracompute.com/terms.html) |
 | [简易API](https://ccnavx.com/sites/jeniya) | 公开 | CNY 1 | 微信、支付宝、USDC、USDT |
 | [kukuai](https://ccnavx.com/sites/kukuai) | 公开 | CNY 6.8 | 支付宝、Stripe、USDT、USDC |
 | [LLM API](https://ccnavx.com/sites/llmapi) | 公开 | CNY 0.2 | 支付宝、PayPal、USDT |
