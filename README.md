@@ -35,7 +35,7 @@ This list focuses on practical provider facts: supported model families, public 
 | [FoxCode](https://ccnavx.com/sites/foxcode) | Public | CNY 35 | Alipay |
 | [Jeniya](https://ccnavx.com/sites/jeniya) | Public | CNY 1 | WeChat, Alipay, USDC, USDT |
 | [kukuai](https://ccnavx.com/sites/kukuai) | Public | CNY 6.8 | Alipay, Stripe, USDT, USDC |
-| [LinkAGI](https://api.linktoagi.com/) | Public | CNY 1 | WeChat, Alipay |
+| [LinkAGI](https://api.linktoagi.com/) | [Public per-model and group pricing](https://api.linktoagi.com/pricing) · [JSON](https://api.linktoagi.com/api/pricing) | CNY 1 | WeChat, Alipay |
 | [LLM API](https://ccnavx.com/sites/llmapi) | Public | CNY 0.2 | Alipay, PayPal, USDT |
 | [Magic Token](https://ccnavx.com/sites/magicapi) | Public | USD 50 | Alipay |
 | [ModelRush](https://modelrush.ai/) | [Public, prepaid usage credits](https://modelrush.ai/pricing) | Not listed | Not listed |
