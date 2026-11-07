@@ -36,7 +36,7 @@
 | [简易API](https://ccnavx.com/sites/jeniya) | 公开 | CNY 1 | 微信、支付宝、USDC、USDT |
 | [kukuai](https://ccnavx.com/sites/kukuai) | 公开 | CNY 6.8 | 支付宝、Stripe、USDT、USDC |
 | [LLM API](https://ccnavx.com/sites/llmapi) | 公开 | CNY 0.2 | 支付宝、PayPal、USDT |
-| [LinkAGI](https://api.linktoagi.com/) | 公开 | CNY 1 | 微信、支付宝 |
+| [LinkAGI](https://api.linktoagi.com/) | [公开逐模型及分组价格](https://api.linktoagi.com/pricing) · [JSON](https://api.linktoagi.com/api/pricing) | CNY 1 | 微信、支付宝 |
 | [Magic Token](https://ccnavx.com/sites/magicapi) | 公开 | USD 50 | 支付宝 |
 | [ModelRush](https://modelrush.ai/) | [公开，预付额度按用量计费](https://modelrush.ai/pricing) | 未列明 | 未列明 |
 | [Poixe AI](https://ccnavx.com/sites/poixeai) | 公开 | USD 5 | 支付宝、微信、Visa、Mastercard、Amex |
