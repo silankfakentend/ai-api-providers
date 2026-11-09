@@ -41,6 +41,7 @@ This list focuses on practical provider facts: supported model families, public 
 | [ModelRush](https://modelrush.ai/) | [Public, prepaid usage credits](https://modelrush.ai/pricing) | Not listed | Not listed |
 | [Poixe AI](https://ccnavx.com/sites/poixeai) | Public | USD 5 | Alipay, WeChat, Visa, Mastercard, Amex |
 | [Shannon API](https://shannonapi.xyz/) | Public (usage-based billing; model marketplace lists prices) | Not listed | Not listed |
+| [Teapot Router](https://teapotrouter.com) | [Public, machine-readable JSON](https://teapotrouter.com/api/pricing) | [USD 1](https://teapotrouter.com) | Creem (credit card; operator-reported) |
 | [YonShoreAPI](https://api.yonshore.com) | [Public per-model pricing](https://api.yonshore.com/api/pricing) | [CNY 1 via WeChat; USDT orders start at 1 site credit](https://api.yonshore.com/about#minimum) | WeChat, USDT (TRC20; operator-reported) |
 
 ## How Providers Are Evaluated
